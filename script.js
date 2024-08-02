@@ -1,6 +1,7 @@
 let kanjiList = [];
 let currentKanji = "";
 let currentIndex = 0;
+let score = 0;
 
 fetch("kanji.json")
   .then((response) => response.json())
@@ -17,6 +18,7 @@ fetch("kanji.json")
 
 function startQuiz() {
   currentIndex = 0;
+  score = 0;
   document.getElementById("quizContainer").classList.remove("hidden");
   document.getElementById("startButton").classList.add("hidden");
   displayNextKanji();
@@ -27,6 +29,10 @@ function submitAnswer() {
   const correctAnswer = kanjiList[currentIndex - 1].onyomi;
   if (userAnswer === correctAnswer) {
     document.getElementById("feedback").innerText = "Correct!";
+    score++;
+    setTimeout(() => {
+      displayNextKanji();
+    }, 1000);
   } else {
     document.getElementById("feedback").innerText = "Try again!";
   }
@@ -40,7 +46,9 @@ function displayNextKanji() {
     document.getElementById("feedback").innerText = "";
     currentIndex++;
   } else {
-    document.getElementById("feedback").innerText = "Quiz Complete!";
+    document.getElementById(
+      "feedback"
+    ).innerText = `Quiz Complete! Your score is ${score}/${kanjiList.length}.`;
     document.getElementById("quizContainer").classList.add("hidden");
     document.getElementById("startButton").classList.remove("hidden");
   }
