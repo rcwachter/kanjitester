@@ -1,56 +1,208 @@
 {
   "level1": [
     {
-      "kanji": "日",
-      "onyomi": "にち"
+      "kanji": "学校",
+      "onyomi": "がっこう"
     },
     {
-      "kanji": "一",
-      "onyomi": "いち"
+      "kanji": "先生",
+      "onyomi": "せんせい"
     },
     {
-      "kanji": "二",
-      "onyomi": "に"
+      "kanji": "学生",
+      "onyomi": "がくせい"
     },
     {
-      "kanji": "三",
-      "onyomi": "さん"
+      "kanji": "図書館",
+      "onyomi": "としょかん"
     },
     {
-      "kanji": "四",
-      "onyomi": "し"
+      "kanji": "日本",
+      "onyomi": "にほん"
     },
     {
-      "kanji": "五",
-      "onyomi": "ご"
+      "kanji": "電話",
+      "onyomi": "でんわ"
     },
     {
-      "kanji": "六",
-      "onyomi": "ろく"
+      "kanji": "自動車",
+      "onyomi": "じどうしゃ"
     },
     {
-      "kanji": "七",
-      "onyomi": "しち"
+      "kanji": "新聞",
+      "onyomi": "しんぶん"
     },
     {
-      "kanji": "八",
-      "onyomi": "はち"
+      "kanji": "病院",
+      "onyomi": "びょういん"
     },
     {
-      "kanji": "九",
-      "onyomi": "きゅう"
+      "kanji": "銀行",
+      "onyomi": "ぎんこう"
     },
     {
-      "kanji": "十",
-      "onyomi": "じゅう"
+      "kanji": "会社",
+      "onyomi": "かいしゃ"
     },
     {
-      "kanji": "百",
-      "onyomi": "ひゃく"
+      "kanji": "勉強",
+      "onyomi": "べんきょう"
     },
     {
-      "kanji": "千",
-      "onyomi": "せん"
+      "kanji": "家族",
+      "onyomi": "かぞく"
+    },
+    {
+      "kanji": "友達",
+      "onyomi": "ともだち"
+    },
+    {
+      "kanji": "時間",
+      "onyomi": "じかん"
+    },
+    {
+      "kanji": "電車",
+      "onyomi": "でんしゃ"
+    },
+    {
+      "kanji": "食事",
+      "onyomi": "しょくじ"
+    },
+    {
+      "kanji": "天気",
+      "onyomi": "てんき"
+    },
+    {
+      "kanji": "旅行",
+      "onyomi": "りょこう"
+    },
+    {
+      "kanji": "映画",
+      "onyomi": "えいが"
+    },
+    {
+      "kanji": "音楽",
+      "onyomi": "おんがく"
+    },
+    {
+      "kanji": "仕事",
+      "onyomi": "しごと"
+    },
+    {
+      "kanji": "教室",
+      "onyomi": "きょうしつ"
+    },
+    {
+      "kanji": "授業",
+      "onyomi": "じゅぎょう"
+    },
+    {
+      "kanji": "公園",
+      "onyomi": "こうえん"
+    },
+    {
+      "kanji": "英語",
+      "onyomi": "えいご"
+    },
+    {
+      "kanji": "大学",
+      "onyomi": "だいがく"
+    },
+    {
+      "kanji": "部屋",
+      "onyomi": "へや"
+    },
+    {
+      "kanji": "携帯電話",
+      "onyomi": "けいたいでんわ"
+    },
+    {
+      "kanji": "食べ物",
+      "onyomi": "たべもの"
+    },
+    {
+      "kanji": "飲み物",
+      "onyomi": "のみもの"
+    },
+    {
+      "kanji": "買い物",
+      "onyomi": "かいもの"
+    },
+    {
+      "kanji": "休日",
+      "onyomi": "きゅうじつ"
+    },
+    {
+      "kanji": "誕生日",
+      "onyomi": "たんじょうび"
+    },
+    {
+      "kanji": "旅行",
+      "onyomi": "りょこう"
+    },
+    {
+      "kanji": "子供",
+      "onyomi": "こども"
+    },
+    {
+      "kanji": "大人",
+      "onyomi": "おとな"
+    },
+    {
+      "kanji": "友人",
+      "onyomi": "ゆうじん"
+    },
+    {
+      "kanji": "昨日",
+      "onyomi": "きのう"
+    },
+    {
+      "kanji": "今日",
+      "onyomi": "きょう"
+    },
+    {
+      "kanji": "明日",
+      "onyomi": "あした"
+    },
+    {
+      "kanji": "週末",
+      "onyomi": "しゅうまつ"
+    },
+    {
+      "kanji": "今週",
+      "onyomi": "こんしゅう"
+    },
+    {
+      "kanji": "来週",
+      "onyomi": "らいしゅう"
+    },
+    {
+      "kanji": "先週",
+      "onyomi": "せんしゅう"
+    },
+    {
+      "kanji": "毎日",
+      "onyomi": "まいにち"
+    },
+    {
+      "kanji": "毎週",
+      "onyomi": "まいしゅう"
+    },
+    {
+      "kanji": "毎月",
+      "onyomi": "まいつき"
+    },
+    {
+      "kanji": "毎年",
+      "onyomi": "まいとし"
+    },
+    {
+      "kanji": "来年",
+      "onyomi": "らいねん"
+    },
+    {
+      "kanji": "去年",
+      "onyomi": "きょねん"
     }
   ],
   "level2": [
