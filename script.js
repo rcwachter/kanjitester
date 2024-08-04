@@ -2,11 +2,11 @@ let kanjiList = [];
 let currentKanji = "";
 let currentIndex = 0;
 let score = 0;
+let selectedLevel = "";
 
 fetch("kanji.json")
   .then((response) => response.json())
   .then((data) => {
-    kanjiList = data;
     document.getElementById("startButton").addEventListener("click", startQuiz);
     document
       .getElementById("submitAnswerButton")
@@ -16,12 +16,26 @@ fetch("kanji.json")
       .addEventListener("input", convertToHiragana);
   });
 
+function selectLevel(level) {
+  selectedLevel = `level${level}`;
+  document.getElementById("startButton").classList.remove("hidden");
+}
+
 function startQuiz() {
   currentIndex = 0;
   score = 0;
+  filterKanjiList();
   document.getElementById("quizContainer").classList.remove("hidden");
   document.getElementById("startButton").classList.add("hidden");
   displayNextKanji();
+}
+
+function filterKanjiList() {
+  fetch("kanji.json")
+    .then((response) => response.json())
+    .then((data) => {
+      kanjiList = data[selectedLevel];
+    });
 }
 
 function submitAnswer() {
