@@ -7,6 +7,50 @@
     {
       "kanji": "一",
       "onyomi": "いち"
+    },
+    {
+      "kanji": "二",
+      "onyomi": "に"
+    },
+    {
+      "kanji": "三",
+      "onyomi": "さん"
+    },
+    {
+      "kanji": "四",
+      "onyomi": "し"
+    },
+    {
+      "kanji": "五",
+      "onyomi": "ご"
+    },
+    {
+      "kanji": "六",
+      "onyomi": "ろく"
+    },
+    {
+      "kanji": "七",
+      "onyomi": "しち"
+    },
+    {
+      "kanji": "八",
+      "onyomi": "はち"
+    },
+    {
+      "kanji": "九",
+      "onyomi": "きゅう"
+    },
+    {
+      "kanji": "十",
+      "onyomi": "じゅう"
+    },
+    {
+      "kanji": "百",
+      "onyomi": "ひゃく"
+    },
+    {
+      "kanji": "千",
+      "onyomi": "せん"
     }
   ],
   "level2": [
@@ -17,12 +61,104 @@
     {
       "kanji": "会",
       "onyomi": "かい"
+    },
+    {
+      "kanji": "同",
+      "onyomi": "どう"
+    },
+    {
+      "kanji": "新",
+      "onyomi": "しん"
+    },
+    {
+      "kanji": "方",
+      "onyomi": "ほう"
+    },
+    {
+      "kanji": "行",
+      "onyomi": "こう"
+    },
+    {
+      "kanji": "見",
+      "onyomi": "けん"
+    },
+    {
+      "kanji": "間",
+      "onyomi": "かん"
+    },
+    {
+      "kanji": "分",
+      "onyomi": "ぶん"
+    },
+    {
+      "kanji": "後",
+      "onyomi": "ご"
+    },
+    {
+      "kanji": "前",
+      "onyomi": "ぜん"
+    },
+    {
+      "kanji": "東",
+      "onyomi": "とう"
+    },
+    {
+      "kanji": "西",
+      "onyomi": "せい"
     }
   ],
   "level3": [
     {
       "kanji": "人",
       "onyomi": "じん"
+    },
+    {
+      "kanji": "者",
+      "onyomi": "しゃ"
+    },
+    {
+      "kanji": "地",
+      "onyomi": "ち"
+    },
+    {
+      "kanji": "天",
+      "onyomi": "てん"
+    },
+    {
+      "kanji": "道",
+      "onyomi": "どう"
+    },
+    {
+      "kanji": "力",
+      "onyomi": "りょく"
+    },
+    {
+      "kanji": "体",
+      "onyomi": "たい"
+    },
+    {
+      "kanji": "目",
+      "onyomi": "もく"
+    },
+    {
+      "kanji": "口",
+      "onyomi": "こう"
+    },
+    {
+      "kanji": "足",
+      "onyomi": "そく"
+    },
+    {
+      "kanji": "耳",
+      "onyomi": "じ"
+    },
+    {
+      "kanji": "手",
+      "onyomi": "しゅ"
+    },
+    {
+      "kanji": "心",
+      "onyomi": "しん"
     }
   ]
 }
