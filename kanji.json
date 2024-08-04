@@ -1,22 +1,98 @@
-[
-  {
-    "kanji": "日",
-    "onyomi": "にち"
-  },
-  {
-    "kanji": "一",
-    "onyomi": "いち"
-  },
-  {
-    "kanji": "国",
-    "onyomi": "こく"
-  },
-  {
-    "kanji": "会",
-    "onyomi": "かい"
-  },
-  {
-    "kanji": "人",
-    "onyomi": "じん"
-  }
-]
+{
+  "level10": [
+    {
+      "kanji": "日",
+      "onyomi": "にち"
+    },
+    {
+      "kanji": "一",
+      "onyomi": "いち"
+    }
+  ],
+  "level9": [
+    {
+      "kanji": "国",
+      "onyomi": "こく"
+    },
+    {
+      "kanji": "会",
+      "onyomi": "かい"
+    }
+  ],
+  "level8": [
+    {
+      "kanji": "人",
+      "onyomi": "じん"
+    }
+  ],
+  "level7": [
+    {
+      "kanji": "力",
+      "onyomi": "りょく"
+    },
+    {
+      "kanji": "女",
+      "onyomi": "じょ"
+    }
+  ],
+  "level6": [
+    {
+      "kanji": "中",
+      "onyomi": "ちゅう"
+    },
+    {
+      "kanji": "学",
+      "onyomi": "がく"
+    }
+  ],
+  "level5": [
+    {
+      "kanji": "生",
+      "onyomi": "せい"
+    },
+    {
+      "kanji": "行",
+      "onyomi": "こう"
+    }
+  ],
+  "level4": [
+    {
+      "kanji": "前",
+      "onyomi": "ぜん"
+    },
+    {
+      "kanji": "後",
+      "onyomi": "ご"
+    }
+  ],
+  "level3": [
+    {
+      "kanji": "時",
+      "onyomi": "じ"
+    },
+    {
+      "kanji": "分",
+      "onyomi": "ぶん"
+    }
+  ],
+  "level2.5": [
+    {
+      "kanji": "時",
+      "onyomi": "じ"
+    },
+    {
+      "kanji": "分",
+      "onyomi": "ぶん"
+    }
+  ],
+  "level2": [
+    {
+      "kanji": "間",
+      "onyomi": "かん"
+    },
+    {
+      "kanji": "方",
+      "onyomi": "ほう"
+    }
+  ]
+}
