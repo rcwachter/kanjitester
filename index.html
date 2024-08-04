@@ -8,12 +8,21 @@
       href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
       rel="stylesheet"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Shippori+Mincho&family=Zen+Old+Mincho&display=swap"
+      rel="stylesheet"
+    />
     <style>
       .no-select {
         user-select: none;
         -webkit-user-select: none;
         -moz-user-select: none;
         -ms-user-select: none;
+      }
+      .kanji-font {
+        font-family: "Shippori Mincho", serif;
       }
     </style>
   </head>
@@ -98,7 +107,10 @@
         </div>
         <div id="quizContainer" class="mt-4 hidden">
           <div class="text-center">
-            <p id="kanjiDisplay" class="text-3xl font-bold no-select"></p>
+            <p
+              id="kanjiDisplay"
+              class="text-6xl font-bold no-select kanji-font"
+            ></p>
           </div>
           <div class="flex justify-center mt-4">
             <p class="text-sm text-gray-600">Please input in Hiragana only.</p>

@@ -24,14 +24,15 @@ function selectLevel(level) {
 function startQuiz() {
   currentIndex = 0;
   score = 0;
-  filterKanjiList();
-  document.getElementById("quizContainer").classList.remove("hidden");
-  document.getElementById("startButton").classList.add("hidden");
-  displayNextKanji();
+  filterKanjiList().then(() => {
+    document.getElementById("quizContainer").classList.remove("hidden");
+    document.getElementById("startButton").classList.add("hidden");
+    displayNextKanji();
+  });
 }
 
 function filterKanjiList() {
-  fetch("kanji.json")
+  return fetch("kanji.json")
     .then((response) => response.json())
     .then((data) => {
       kanjiList = data[selectedLevel];
