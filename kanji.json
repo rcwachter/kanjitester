@@ -207,56 +207,696 @@
   ],
   "level2": [
     {
-      "kanji": "国",
-      "onyomi": "こく"
+      "kanji": "文化",
+      "onyomi": "ぶんか"
     },
     {
-      "kanji": "会",
-      "onyomi": "かい"
+      "kanji": "未来",
+      "onyomi": "みらい"
     },
     {
-      "kanji": "同",
-      "onyomi": "どう"
+      "kanji": "経験",
+      "onyomi": "けいけん"
     },
     {
-      "kanji": "新",
-      "onyomi": "しん"
+      "kanji": "発展",
+      "onyomi": "はってん"
     },
     {
-      "kanji": "方",
-      "onyomi": "ほう"
+      "kanji": "環境",
+      "onyomi": "かんきょう"
     },
     {
-      "kanji": "行",
-      "onyomi": "こう"
+      "kanji": "技術",
+      "onyomi": "ぎじゅつ"
     },
     {
-      "kanji": "見",
-      "onyomi": "けん"
+      "kanji": "議会",
+      "onyomi": "ぎかい"
     },
     {
-      "kanji": "間",
-      "onyomi": "かん"
+      "kanji": "経済",
+      "onyomi": "けいざい"
     },
     {
-      "kanji": "分",
-      "onyomi": "ぶん"
+      "kanji": "科学",
+      "onyomi": "かがく"
     },
     {
-      "kanji": "後",
-      "onyomi": "ご"
+      "kanji": "化学",
+      "onyomi": "かがく"
     },
     {
-      "kanji": "前",
-      "onyomi": "ぜん"
+      "kanji": "政治",
+      "onyomi": "せいじ"
     },
     {
-      "kanji": "東",
-      "onyomi": "とう"
+      "kanji": "医療",
+      "onyomi": "いりょう"
     },
     {
-      "kanji": "西",
-      "onyomi": "せい"
+      "kanji": "研究",
+      "onyomi": "けんきゅう"
+    },
+    {
+      "kanji": "知識",
+      "onyomi": "ちしき"
+    },
+    {
+      "kanji": "芸術",
+      "onyomi": "げいじゅつ"
+    },
+    {
+      "kanji": "経営",
+      "onyomi": "けいえい"
+    },
+    {
+      "kanji": "貿易",
+      "onyomi": "ぼうえき"
+    },
+    {
+      "kanji": "教育",
+      "onyomi": "きょういく"
+    },
+    {
+      "kanji": "財政",
+      "onyomi": "ざいせい"
+    },
+    {
+      "kanji": "公共",
+      "onyomi": "こうきょう"
+    },
+    {
+      "kanji": "商業",
+      "onyomi": "しょうぎょう"
+    },
+    {
+      "kanji": "産業",
+      "onyomi": "さんぎょう"
+    },
+    {
+      "kanji": "工業",
+      "onyomi": "こうぎょう"
+    },
+    {
+      "kanji": "農業",
+      "onyomi": "のうぎょう"
+    },
+    {
+      "kanji": "企業",
+      "onyomi": "きぎょう"
+    },
+    {
+      "kanji": "計画",
+      "onyomi": "けいかく"
+    },
+    {
+      "kanji": "実現",
+      "onyomi": "じつげん"
+    },
+    {
+      "kanji": "目標",
+      "onyomi": "もくひょう"
+    },
+    {
+      "kanji": "成長",
+      "onyomi": "せいちょう"
+    },
+    {
+      "kanji": "利益",
+      "onyomi": "りえき"
+    },
+    {
+      "kanji": "資本",
+      "onyomi": "しほん"
+    },
+    {
+      "kanji": "投資",
+      "onyomi": "とうし"
+    },
+    {
+      "kanji": "管理",
+      "onyomi": "かんり"
+    },
+    {
+      "kanji": "情報",
+      "onyomi": "じょうほう"
+    },
+    {
+      "kanji": "事実",
+      "onyomi": "じじつ"
+    },
+    {
+      "kanji": "文学",
+      "onyomi": "ぶんがく"
+    },
+    {
+      "kanji": "歴史",
+      "onyomi": "れきし"
+    },
+    {
+      "kanji": "社会",
+      "onyomi": "しゃかい"
+    },
+    {
+      "kanji": "民主",
+      "onyomi": "みんしゅ"
+    },
+    {
+      "kanji": "国際",
+      "onyomi": "こくさい"
+    },
+    {
+      "kanji": "戦争",
+      "onyomi": "せんそう"
+    },
+    {
+      "kanji": "平和",
+      "onyomi": "へいわ"
+    },
+    {
+      "kanji": "生活",
+      "onyomi": "せいかつ"
+    },
+    {
+      "kanji": "法律",
+      "onyomi": "ほうりつ"
+    },
+    {
+      "kanji": "警察",
+      "onyomi": "けいさつ"
+    },
+    {
+      "kanji": "医学",
+      "onyomi": "いがく"
+    },
+    {
+      "kanji": "電話",
+      "onyomi": "でんわ"
+    },
+    {
+      "kanji": "電車",
+      "onyomi": "でんしゃ"
+    },
+    {
+      "kanji": "自動車",
+      "onyomi": "じどうしゃ"
+    },
+    {
+      "kanji": "空港",
+      "onyomi": "くうこう"
+    },
+    {
+      "kanji": "旅行",
+      "onyomi": "りょこう"
+    },
+    {
+      "kanji": "宿題",
+      "onyomi": "しゅくだい"
+    },
+    {
+      "kanji": "運動",
+      "onyomi": "うんどう"
+    },
+    {
+      "kanji": "選手",
+      "onyomi": "せんしゅ"
+    },
+    {
+      "kanji": "監督",
+      "onyomi": "かんとく"
+    },
+    {
+      "kanji": "試合",
+      "onyomi": "しあい"
+    },
+    {
+      "kanji": "成績",
+      "onyomi": "せいせき"
+    },
+    {
+      "kanji": "結果",
+      "onyomi": "けっか"
+    },
+    {
+      "kanji": "報告",
+      "onyomi": "ほうこく"
+    },
+    {
+      "kanji": "会議",
+      "onyomi": "かいぎ"
+    },
+    {
+      "kanji": "議長",
+      "onyomi": "ぎちょう"
+    },
+    {
+      "kanji": "意見",
+      "onyomi": "いけん"
+    },
+    {
+      "kanji": "提案",
+      "onyomi": "ていあん"
+    },
+    {
+      "kanji": "質問",
+      "onyomi": "しつもん"
+    },
+    {
+      "kanji": "答案",
+      "onyomi": "とうあん"
+    },
+    {
+      "kanji": "解答",
+      "onyomi": "かいとう"
+    },
+    {
+      "kanji": "問題",
+      "onyomi": "もんだい"
+    },
+    {
+      "kanji": "解決",
+      "onyomi": "かいけつ"
+    },
+    {
+      "kanji": "討論",
+      "onyomi": "とうろん"
+    },
+    {
+      "kanji": "記録",
+      "onyomi": "きろく"
+    },
+    {
+      "kanji": "新聞",
+      "onyomi": "しんぶん"
+    },
+    {
+      "kanji": "雑誌",
+      "onyomi": "ざっし"
+    },
+    {
+      "kanji": "出版",
+      "onyomi": "しゅっぱん"
+    },
+    {
+      "kanji": "図書",
+      "onyomi": "としょ"
+    },
+    {
+      "kanji": "映画",
+      "onyomi": "えいが"
+    },
+    {
+      "kanji": "音楽",
+      "onyomi": "おんがく"
+    },
+    {
+      "kanji": "美術",
+      "onyomi": "びじゅつ"
+    },
+    {
+      "kanji": "彫刻",
+      "onyomi": "ちょうこく"
+    },
+    {
+      "kanji": "建築",
+      "onyomi": "けんちく"
+    },
+    {
+      "kanji": "絵画",
+      "onyomi": "かいが"
+    },
+    {
+      "kanji": "写真",
+      "onyomi": "しゃしん"
+    },
+    {
+      "kanji": "芝居",
+      "onyomi": "しばい"
+    },
+    {
+      "kanji": "劇場",
+      "onyomi": "げきじょう"
+    },
+    {
+      "kanji": "公園",
+      "onyomi": "こうえん"
+    },
+    {
+      "kanji": "植物",
+      "onyomi": "しょくぶつ"
+    },
+    {
+      "kanji": "動物",
+      "onyomi": "どうぶつ"
+    },
+    {
+      "kanji": "水族館",
+      "onyomi": "すいぞくかん"
+    },
+    {
+      "kanji": "博物館",
+      "onyomi": "はくぶつかん"
+    },
+    {
+      "kanji": "展覧会",
+      "onyomi": "てんらんかい"
+    },
+    {
+      "kanji": "祭り",
+      "onyomi": "まつり"
+    },
+    {
+      "kanji": "伝統",
+      "onyomi": "でんとう"
+    },
+    {
+      "kanji": "習慣",
+      "onyomi": "しゅうかん"
+    },
+    {
+      "kanji": "礼儀",
+      "onyomi": "れいぎ"
+    },
+    {
+      "kanji": "作法",
+      "onyomi": "さほう"
+    },
+    {
+      "kanji": "風景",
+      "onyomi": "ふうけい"
+    },
+    {
+      "kanji": "景色",
+      "onyomi": "けしき"
+    },
+    {
+      "kanji": "自然",
+      "onyomi": "しぜん"
+    },
+    {
+      "kanji": "天気",
+      "onyomi": "てんき"
+    },
+    {
+      "kanji": "季節",
+      "onyomi": "きせつ"
+    },
+    {
+      "kanji": "気候",
+      "onyomi": "きこう"
+    },
+    {
+      "kanji": "家庭",
+      "onyomi": "かてい"
+    },
+    {
+      "kanji": "屋根",
+      "onyomi": "やね"
+    },
+    {
+      "kanji": "台所",
+      "onyomi": "だいどころ"
+    },
+    {
+      "kanji": "食堂",
+      "onyomi": "しょくどう"
+    },
+    {
+      "kanji": "居間",
+      "onyomi": "いま"
+    },
+    {
+      "kanji": "寝室",
+      "onyomi": "しんしつ"
+    },
+    {
+      "kanji": "浴室",
+      "onyomi": "よくしつ"
+    },
+    {
+      "kanji": "玄関",
+      "onyomi": "げんかん"
+    },
+    {
+      "kanji": "窓口",
+      "onyomi": "まどぐち"
+    },
+    {
+      "kanji": "帽子",
+      "onyomi": "ぼうし"
+    },
+    {
+      "kanji": "靴下",
+      "onyomi": "くつした"
+    },
+    {
+      "kanji": "手袋",
+      "onyomi": "てぶくろ"
+    },
+    {
+      "kanji": "鞄",
+      "onyomi": "かばん"
+    },
+    {
+      "kanji": "眼鏡",
+      "onyomi": "めがね"
+    },
+    {
+      "kanji": "時計",
+      "onyomi": "とけい"
+    },
+    {
+      "kanji": "本棚",
+      "onyomi": "ほんだな"
+    },
+    {
+      "kanji": "書斎",
+      "onyomi": "しょさい"
+    },
+    {
+      "kanji": "台風",
+      "onyomi": "たいふう"
+    },
+    {
+      "kanji": "地震",
+      "onyomi": "じしん"
+    },
+    {
+      "kanji": "洪水",
+      "onyomi": "こうずい"
+    },
+    {
+      "kanji": "災害",
+      "onyomi": "さいがい"
+    },
+    {
+      "kanji": "火山",
+      "onyomi": "かざん"
+    },
+    {
+      "kanji": "噴火",
+      "onyomi": "ふんか"
+    },
+    {
+      "kanji": "海岸",
+      "onyomi": "かいがん"
+    },
+    {
+      "kanji": "山脈",
+      "onyomi": "さんみゃく"
+    },
+    {
+      "kanji": "湖畔",
+      "onyomi": "こはん"
+    },
+    {
+      "kanji": "河川",
+      "onyomi": "かせん"
+    },
+    {
+      "kanji": "滝川",
+      "onyomi": "たきがわ"
+    },
+    {
+      "kanji": "島国",
+      "onyomi": "しまぐに"
+    },
+    {
+      "kanji": "半島",
+      "onyomi": "はんとう"
+    },
+    {
+      "kanji": "森林",
+      "onyomi": "しんりん"
+    },
+    {
+      "kanji": "砂漠",
+      "onyomi": "さばく"
+    },
+    {
+      "kanji": "草原",
+      "onyomi": "そうげん"
+    },
+    {
+      "kanji": "牧場",
+      "onyomi": "ぼくじょう"
+    },
+    {
+      "kanji": "野原",
+      "onyomi": "のはら"
+    },
+    {
+      "kanji": "農村",
+      "onyomi": "のうそん"
+    },
+    {
+      "kanji": "漁村",
+      "onyomi": "ぎょそん"
+    },
+    {
+      "kanji": "工場",
+      "onyomi": "こうじょう"
+    },
+    {
+      "kanji": "工事",
+      "onyomi": "こうじ"
+    },
+    {
+      "kanji": "設計",
+      "onyomi": "せっけい"
+    },
+    {
+      "kanji": "建設",
+      "onyomi": "けんせつ"
+    },
+    {
+      "kanji": "鉄道",
+      "onyomi": "てつどう"
+    },
+    {
+      "kanji": "地下鉄",
+      "onyomi": "ちかてつ"
+    },
+    {
+      "kanji": "航空",
+      "onyomi": "こうくう"
+    },
+    {
+      "kanji": "飛行",
+      "onyomi": "ひこう"
+    },
+    {
+      "kanji": "宇宙",
+      "onyomi": "うちゅう"
+    },
+    {
+      "kanji": "銀河",
+      "onyomi": "ぎんが"
+    },
+    {
+      "kanji": "衛星",
+      "onyomi": "えいせい"
+    },
+    {
+      "kanji": "惑星",
+      "onyomi": "わくせい"
+    },
+    {
+      "kanji": "恒星",
+      "onyomi": "こうせい"
+    },
+    {
+      "kanji": "人類",
+      "onyomi": "じんるい"
+    },
+    {
+      "kanji": "民族",
+      "onyomi": "みんぞく"
+    },
+    {
+      "kanji": "国家",
+      "onyomi": "こっか"
+    },
+    {
+      "kanji": "郵便",
+      "onyomi": "ゆうびん"
+    },
+    {
+      "kanji": "銀行",
+      "onyomi": "ぎんこう"
+    },
+    {
+      "kanji": "郵送",
+      "onyomi": "ゆうそう"
+    },
+    {
+      "kanji": "住所",
+      "onyomi": "じゅうしょ"
+    },
+    {
+      "kanji": "氏名",
+      "onyomi": "しめい"
+    },
+    {
+      "kanji": "職業",
+      "onyomi": "しょくぎょう"
+    },
+    {
+      "kanji": "年齢",
+      "onyomi": "ねんれい"
+    },
+    {
+      "kanji": "性別",
+      "onyomi": "せいべつ"
+    },
+    {
+      "kanji": "家族",
+      "onyomi": "かぞく"
+    },
+    {
+      "kanji": "親戚",
+      "onyomi": "しんせき"
+    },
+    {
+      "kanji": "子孫",
+      "onyomi": "しそん"
+    },
+    {
+      "kanji": "祖先",
+      "onyomi": "そせん"
+    },
+    {
+      "kanji": "兄弟",
+      "onyomi": "きょうだい"
+    },
+    {
+      "kanji": "姉妹",
+      "onyomi": "しまい"
+    },
+    {
+      "kanji": "夫婦",
+      "onyomi": "ふうふ"
+    },
+    {
+      "kanji": "友人",
+      "onyomi": "ゆうじん"
+    },
+    {
+      "kanji": "仲間",
+      "onyomi": "なかま"
+    },
+    {
+      "kanji": "隣人",
+      "onyomi": "りんじん"
+    },
+    {
+      "kanji": "同僚",
+      "onyomi": "どうりょう"
+    },
+    {
+      "kanji": "先輩",
+      "onyomi": "せんぱい"
     }
   ],
   "level3": [
