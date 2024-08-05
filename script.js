@@ -46,17 +46,26 @@ function filterKanjiList() {
 
 function submitAnswer() {
   const userAnswer = document.getElementById("answerInput").value;
-  const correctAnswer =
-    kanjiList[usedKanjiIndexes[usedKanjiIndexes.length - 1]].onyomi;
+  const currentKanjiIndex = usedKanjiIndexes[usedKanjiIndexes.length - 1];
+  const correctAnswer = kanjiList[currentKanjiIndex].onyomi;
+  const submitButton = document.getElementById("submitAnswerButton");
+
+  submitButton.disabled = true;
+
   if (userAnswer === correctAnswer) {
     document.getElementById("feedback").innerText = "Correct!";
     score++;
-    setTimeout(() => {
-      displayNextKanji();
-    }, 1000);
   } else {
-    document.getElementById("feedback").innerText = "Try again!";
+    const furigana = kanjiList[currentKanjiIndex].furigana || correctAnswer;
+    document.getElementById(
+      "feedback"
+    ).innerText = `Correct answer: ${furigana}`;
   }
+
+  setTimeout(() => {
+    displayNextKanji();
+    submitButton.disabled = false;
+  }, 1000);
 }
 
 function displayNextKanji() {
